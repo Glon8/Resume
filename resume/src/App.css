@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.mBackground{
+  background-image: linear-gradient(to bottom right, rgba(197, 67, 67, 0.904), rgb(72, 61, 139), #1c2025);
+}
+
+.sBackground{
+  background-color: white;
+}
+
+.blur-box {
+  box-shadow: 0 0 5px 10px rgb(255 255 255 / 0.10);
+}
